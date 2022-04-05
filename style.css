@@ -1,0 +1,6 @@
+.pink-bg{
+    background-color: #feeae9;
+    .carousel-item{
+        padding: 20px 40px;
+    }
+}
